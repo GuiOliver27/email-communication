@@ -1,6 +1,6 @@
 # Email Communication
 
-Este projeto consiste em um sistema de microsserviços para lidar com cadastro de usuários e envio de e-mails.
+Este projeto consiste em um sistema de mensageria para lidar com cadastro de usuários e envio de e-mails.
 
 ## Serviço de Cadastro de Usuários
 
